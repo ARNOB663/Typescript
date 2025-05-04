@@ -20,3 +20,9 @@ let frineds:string[] = ['kuddus','josim']
 //Array - number array 
 let eligibleRollList: number[] = [1,2,3,4,5];
 eligibleRollList.push(6)
+
+//tuple -->arry -->order--> type of value
+
+let coordinates:[number,number] = [1,5]
+
+let ageName:[number,string],boolean = [50,"Mr,x",true]
