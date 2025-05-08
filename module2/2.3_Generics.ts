@@ -29,6 +29,10 @@ const user: GenericArrayParams<{name:string,age:number}> = [{
    name:"Daddy",
    age:60
 }]
+ interface User  {
+  name: string;
+  age:number
+ }
 
 
 const boolArray: GenericArrayBool = [true,false,true];
