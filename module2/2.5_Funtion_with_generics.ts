@@ -37,9 +37,7 @@ return {
   course
 }
 }
-
 const student1 = addcourseToStudent({name:'Mr X',email:"x@gmail.com",devType:"NLW"})
-
 const student2 = addcourseToStudent({name:'Mr Y',email:"x@gmail.com",devType:"NLW",hasWacth:"Apple Watch"})
 
 //
