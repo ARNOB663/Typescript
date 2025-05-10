@@ -30,7 +30,7 @@ type PersonReadonly =Readonly<Person>
 
 const EmptyObj: {} = {}
 
-// EmptyObj.age=
+//EmptyObj.age=
 
 // type Myobj = Record<string,string>
 
