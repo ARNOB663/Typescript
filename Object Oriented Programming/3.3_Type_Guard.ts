@@ -38,12 +38,13 @@ const normalUser : NormalUser = {
   name:"Mr. Normal",
 
 }
-const adminUser: AdminUser = [
+const adminUser: AdminUser = {
     name:  "Mr. Normal Bhai",
     role: "admin"
-]
+}
 
-
+getUser(normalUser)
+getUser(adminUser) 
 
 
 
